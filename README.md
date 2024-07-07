@@ -24,10 +24,7 @@ Ensure you have the following installed:
 
 1. **Clone the repository:**
 
-    ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
-    ```
+https://github.com/MohitKumarSingh01/Smart-Contract-Management_Function-Frontend.git
 
 2. **Install dependencies:**
 
