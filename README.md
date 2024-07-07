@@ -1,6 +1,6 @@
-# Digital Decentralized Currency Exchange
+# Mohit's Crypto Exchange Hub
 
-Digital Decentralized Currency Exchange is a decentralized application (dApp) built on Ethereum, enabling users to deposit and withdraw Ether through a smart contract. The project consists of a Solidity smart contract for managing funds and a React front-end for interacting with the contract.
+Mohit's Crypto Exchange Hub is a decentralized application (dApp) built on Ethereum, enabling users to deposit and withdraw Ether through a smart contract. The project consists of a Solidity smart contract for managing funds and a React front-end for interacting with the contract.
 
 ## Overview
 
@@ -24,7 +24,9 @@ Ensure you have the following installed:
 
 1. **Clone the repository:**
 
-https://github.com/MohitKumarSingh01/Smart-Contract-Management_Function-Frontend.git
+   ```bash
+   git clone https://github.com/MohitKumarSingh01/Smart-Contract-Management_Function-Frontend.git
+   ```
 
 2. **Install dependencies:**
 
